@@ -31,5 +31,3 @@ This project uses the following resources:
 - Bootstrap CSS: https://getbootstrap.com/
 - Google Fonts: https://fonts.google.com/
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
